@@ -24,6 +24,8 @@
 
 Desktop comparte la identidad, objetivos de producto y parte de los flujos de experiencia de **FridaMusic para Android**, pero **no es un port 1:1 del código Kotlin ni del backend móvil**. La edición de escritorio utiliza una arquitectura propia basada principalmente en **TypeScript, JavaScript, HTML, CSS, SolidJS y Electron**, reutilizando e integrando servicios y componentes compatibles donde resulta apropiado.
 
+> Como estimación interna de alcance —no como porcentaje de líneas de código copiadas— alrededor del **80 % de los conceptos de servicio, flujos de datos e integración de la experiencia FridaMusic** pudieron reaprovecharse o adaptarse para Desktop. La capa de presentación, integración con el sistema operativo, empaquetado y actualización se implementa específicamente para escritorio.
+
 > El repositorio de desarrollo de Desktop se mantiene separado. Este repositorio público está dedicado a **releases oficiales, instaladores, metadatos del actualizador y snapshots de código fuente correspondientes a cada versión publicada**.
 
 ## 📸 Vista rápida
@@ -140,7 +142,7 @@ Si estás en el repositorio Android y buscas la edición para computadora, usa *
 - 📢 **Telegram:** [https://t.me/FridaLabs](https://t.me/FridaLabs)
 - 💬 **Discord:** [https://discord.gg/Gyh7nfWK9k](https://discord.gg/Gyh7nfWK9k)
 - 💚 **WhatsApp:** [https://chat.whatsapp.com/CrZyvVqoLPq6QGTbJSSrAX](https://chat.whatsapp.com/CrZyvVqoLPq6QGTbJSSrAX)
-- 🐛 **Issues:** [https://github.com/jagrdev-MX/FridaMusic_OF/issues](https://github.com/jagrdev-MX/FridaMusic_OF/issues)
+- 🐛 **Issues Desktop:** [https://github.com/jagrdev-MX/FridaMusic-Desktop-Releases/issues](https://github.com/jagrdev-MX/FridaMusic-Desktop-Releases/issues)
 
 ## 🔄 Actualizaciones
 

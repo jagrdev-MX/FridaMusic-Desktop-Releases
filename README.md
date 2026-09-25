@@ -132,6 +132,16 @@ FridaMusic para Android y FridaMusic Desktop son dos ediciones del mismo ecosist
 Si llegaste aquí buscando la aplicación para teléfono, visita **[FridaMusic Android](https://github.com/jagrdev-MX/FridaMusic_OF)**.  
 Si estás en el repositorio Android y buscas la edición para computadora, usa **[FridaMusic Desktop Releases](https://github.com/jagrdev-MX/FridaMusic-Desktop-Releases/releases)**.
 
+
+## 🌐 Comunidad
+
+Únete a los canales oficiales para seguir el desarrollo, compartir sugerencias o participar con la comunidad:
+
+- 📢 **Telegram:** [https://t.me/FridaLabs](https://t.me/FridaLabs)
+- 💬 **Discord:** [https://discord.gg/Gyh7nfWK9k](https://discord.gg/Gyh7nfWK9k)
+- 💚 **WhatsApp:** [https://chat.whatsapp.com/CrZyvVqoLPq6QGTbJSSrAX](https://chat.whatsapp.com/CrZyvVqoLPq6QGTbJSSrAX)
+- 🐛 **Issues:** [https://github.com/jagrdev-MX/FridaMusic_OF/issues](https://github.com/jagrdev-MX/FridaMusic_OF/issues)
+
 ## 🔄 Actualizaciones
 
 FridaMusic Desktop consulta este repositorio público para buscar nuevas versiones mediante `electron-updater`. Cuando existe una actualización, la aplicación puede mostrar la versión disponible, iniciar la descarga bajo petición, enseñar el progreso y reiniciar para instalarla.

@@ -130,6 +130,7 @@ FridaMusic para Android y FridaMusic Desktop son dos ediciones del mismo ecosist
 | **FridaMusic en Google Play** | Android | [Google Play](https://play.google.com/store/apps/details?id=com.jagr.fridamusic) |
 | **FridaMusic Android Releases** | Android | [GitHub Releases](https://github.com/jagrdev-MX/FridaMusic_OF/releases) |
 | **FridaMusic Desktop** | Windows · macOS · Linux | [Releases oficiales](https://github.com/jagrdev-MX/FridaMusic-Desktop-Releases/releases) |
+| **FridaMusic Desktop en Microsoft Store** | Windows | [Microsoft Store](https://apps.microsoft.com/detail/9MXJ9RJGMXFM?hl=en-us&gl=MX&ocid=pdpshare) |
 | **Sitio oficial** | Web | [frida-music-of.vercel.app](https://frida-music-of.vercel.app/) |
 
 Si llegaste aquí buscando la aplicación para teléfono, visita **[FridaMusic Android](https://github.com/jagrdev-MX/FridaMusic_OF)**.  

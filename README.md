@@ -12,6 +12,7 @@
 [⬇️ Descargar Desktop](https://github.com/jagrdev-MX/FridaMusic-Desktop-Releases/releases) ·
 [📱 FridaMusic Android](https://github.com/jagrdev-MX/FridaMusic_OF) ·
 [▶ Google Play](https://play.google.com/store/apps/details?id=com.jagr.fridamusic) ·
+[🪟 Microsoft Store](https://apps.microsoft.com/detail/9MXJ9RJGMXFM?hl=en-us&gl=MX&ocid=pdpshare) ·
 [🌐 Sitio oficial](https://frida-music-of.vercel.app/)
 
 </div>
